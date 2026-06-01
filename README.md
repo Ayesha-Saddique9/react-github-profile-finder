@@ -17,10 +17,14 @@ A responsive React application that allows users to search GitHub profiles and v
 ![Profile Result](./result.png)
 
 ---
+
 ## 🚀 Live Demo
 
-![https://ayesha-saddique9.github.io/react-github-profile-finder/]
+https://ayesha-saddique9.github.io/react-github-profile-finder/
+
+
 ---
+
 ## ✨ Key Features & Logic
 
 - **⚡ Real-time API Integration:** Fetches live user data directly from the official GitHub REST API using modern `async/await` Promises.
