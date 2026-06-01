@@ -81,6 +81,3 @@ Frontend Web Developer
 📧 Email: ayeshasaddique70@gmail.com
 
 ⭐ If you found this project useful, consider giving it a star!
-
-# 4. Start the Vite development server
-npm run dev
