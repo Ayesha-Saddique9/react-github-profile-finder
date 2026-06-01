@@ -4,7 +4,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-A sleek, responsive, and blazing-fast web application that allows users to search for GitHub profiles and instantly view their statistics. Built with **React.js** and styled with **Tailwind CSS**, this project demonstrates modern API integration and robust state management.
+A responsive React application that allows users to search GitHub profiles and view real-time user information using the GitHub API.
 
 ---
 
@@ -17,7 +17,10 @@ A sleek, responsive, and blazing-fast web application that allows users to searc
 ![Profile Result](./result.png)
 
 ---
+## 🚀 Live Demo
 
+
+---
 ## ✨ Key Features & Logic
 
 - **⚡ Real-time API Integration:** Fetches live user data directly from the official GitHub REST API using modern `async/await` Promises.
@@ -39,7 +42,7 @@ A sleek, responsive, and blazing-fast web application that allows users to searc
 
 ## 💻 How to Run Locally
 
-Want to test this project on your own machine? Follow these simple steps:
+Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
@@ -48,16 +51,36 @@ git clone https://github.com/Ayesha-Saddique9/react-github-profile-finder.git
 # 2. Navigate into the project folder
 cd react-github-profile-finder
 
-# 3. Install the necessary dependencies
+# 3. Install dependencies
 npm install
 
----
-##👩‍💻 Author
-Ayesha Saddique
+# 4. Start the development server
+npm run dev
+```
 
+---
+## 📚 What I Learned
+
+- Working with React Hooks (`useState`, `useEffect`)
+- Fetching data from external APIs
+- Managing loading and error states
+- Building responsive interfaces with Tailwind CSS
+- Handling user input and dynamic rendering
+
+  
+---
+## 👩‍💻 Author
+
+**Ayesha Saddique**  
 Frontend Web Developer
-GitHub: @Ayesha-Saddique9
-LinkedIn: Ayesha Saddique
+
+🔗 GitHub: https://github.com/Ayesha-Saddique9
+
+💼 LinkedIn: https://linkedin.com/in/ayesha-saddique9
+
+📧 Email: ayeshasaddique70@gmail.com
+
+⭐ If you found this project useful, consider giving it a star!
 
 # 4. Start the Vite development server
 npm run dev
