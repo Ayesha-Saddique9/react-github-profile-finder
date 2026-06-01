@@ -19,7 +19,7 @@ A responsive React application that allows users to search GitHub profiles and v
 ---
 ## 🚀 Live Demo
 
-
+![https://ayesha-saddique9.github.io/react-github-profile-finder/]
 ---
 ## ✨ Key Features & Logic
 
