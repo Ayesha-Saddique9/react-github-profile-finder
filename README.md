@@ -51,5 +51,13 @@ cd react-github-profile-finder
 # 3. Install the necessary dependencies
 npm install
 
+---
+##👩‍💻 Author
+Ayesha Saddique
+
+Frontend Web Developer
+GitHub: @Ayesha-Saddique9
+LinkedIn: Ayesha Saddique
+
 # 4. Start the Vite development server
 npm run dev
